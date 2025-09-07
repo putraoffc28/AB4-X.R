@@ -9,10 +9,10 @@ except ImportError:
 
 banner = """
 
-Github : /putraoffc
-Youtube: putraoffc2
-Author Ver AOX /official: ab4 x.t
-Github Aby Putra Utama: /putraoffc
+Github : /Hideyoshi07
+Youtube: Rama ahmed
+Author Ver AOX /official: Ms.ambari
+Github Ms.ambari: /Ranginang67
 
 """
 
